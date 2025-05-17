@@ -1,4 +1,4 @@
-Verificador de Números Primos
+ Verificador de Números Primos
 Este é um simples programa em Python que verifica se um número fornecido pelo usuário é primo.
 
 📋 Descrição
